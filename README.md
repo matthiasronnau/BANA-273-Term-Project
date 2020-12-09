@@ -1,5 +1,5 @@
 ### Overview
-The motivation behind this project was to use the machine learning skills that we learned in BANA-273, Machine Learning for Analytics.
+The motivation behind this project was to use the machine learning skills that we learned in BANA-273, Machine Learning for Analytics. We wanted to analyze the features of online news articles that increase the number of shares an article receives.
 ___
 ### Data
 The data for this project was acquired from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). This websits has over 500 datasets available to use for machine learning projects and research. 
